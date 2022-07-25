@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 I'm Jaydatta Bade
-- 👀 I'm interested in Machine Learning & Data Science
-- 🔭 I’m currently working on some ML projects
+- 👀 I'm ML & Data Science enthusiast
+- 🌱 I’m currently learning web3.0 & Blockchain Technology
