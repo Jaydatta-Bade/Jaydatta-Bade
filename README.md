@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaydatta</h1>
-<h3 align="center">B.E. Artificial Intelligence and Data Science</h3>
+<h3 align="center">AI Engineer</h3>
 
-- 💬 Ask me about **AI, ML, NLP, Data Science and Analytics**
+- 💬 Ask me about **AI, ML, NLP, LLMs, Data Science and Analytics**
 
 - 📫 How to reach me **jaydattabade11@gmail.com**
 
